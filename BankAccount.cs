@@ -31,6 +31,7 @@ namespace MySuperBank
 		{
 		    Owner = name;
 
+			if(initialBalance > 0)
 			MakeDeposite(initialBalance, DateTime.Now, "Initial Balance");
 
 			number = accountNumberSeed.ToString();
