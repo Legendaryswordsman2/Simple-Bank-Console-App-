@@ -1,7 +1,0 @@
-C:\Users\LegendarySwordsman2\Desktop\All My Files\Programming\Projects\MySuperBank\bin\Debug\MySuperBank.exe.config
-C:\Users\LegendarySwordsman2\Desktop\All My Files\Programming\Projects\MySuperBank\bin\Debug\MySuperBank.exe
-C:\Users\LegendarySwordsman2\Desktop\All My Files\Programming\Projects\MySuperBank\bin\Debug\MySuperBank.pdb
-C:\Users\LegendarySwordsman2\Desktop\All My Files\Programming\Projects\MySuperBank\obj\Debug\MySuperBank.csproj.AssemblyReference.cache
-C:\Users\LegendarySwordsman2\Desktop\All My Files\Programming\Projects\MySuperBank\obj\Debug\MySuperBank.csproj.CoreCompileInputs.cache
-C:\Users\LegendarySwordsman2\Desktop\All My Files\Programming\Projects\MySuperBank\obj\Debug\MySuperBank.exe
-C:\Users\LegendarySwordsman2\Desktop\All My Files\Programming\Projects\MySuperBank\obj\Debug\MySuperBank.pdb
